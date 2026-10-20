@@ -110,7 +110,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ## Insights Deep-Dive
 
-![Sales Revenue, AOV, and Number of Orders](gamezone_visuals/kpi_trends.png)
+<img src="gamezone_visuals/kpi_trends.png" alt="Sales Revenue, AOV, and Number of Orders" width="800">
 
 ### Sales Revenue
 
