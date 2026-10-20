@@ -31,6 +31,8 @@
 
 Gamezone is a US-based e-commerce retailer selling mainstream consumer electronics and accessories in the gaming industry. In recent years it has expanded globally across **North America, EMEA, APAC, and LATAM**, while adapting to the COVID-19 pandemic and growing competition from large peers like Amazon and Best Buy.
 
+The dataset spans multiple dimensions and metrics, including sales revenue, products, customer purchasing trends, refund rates, and regional sales. 
+
 | Metric | Value |
 |---|---|
 | Customers | ~20,000 |
