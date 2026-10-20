@@ -7,7 +7,7 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Client Background](#-client-background)
 - [Scope of Analysis](#-scope-of-analysis)
