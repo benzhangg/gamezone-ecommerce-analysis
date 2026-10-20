@@ -27,7 +27,7 @@
 
 ---
 
-## 🏢 Client Background
+## Client Background
 
 Gamezone is a US-based e-commerce retailer selling mainstream consumer electronics and accessories in the gaming industry. In recent years it has expanded globally across **North America, EMEA, APAC, and LATAM**, while adapting to the COVID-19 pandemic and growing competition from large peers like Amazon and Best Buy.
 
@@ -39,7 +39,7 @@ Gamezone is a US-based e-commerce retailer selling mainstream consumer electroni
 
 Working with the Head of Operations, this analysis evaluates Gamezone's performance and identifies challenges and opportunities that cross-functional stakeholders can use to grow the business.
 
-## 🎯 Scope of Analysis
+## Scope of Analysis
 
 North Star metrics covered:
 
@@ -53,7 +53,7 @@ North Star metrics covered:
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 ### 1. Sales Growth and Peak Periods
 - 2020 was an exceptional year, likely driven by the COVID-19 pandemic: sales grew from **$1.5M in 2019 to $4M in 2020**.
@@ -76,7 +76,7 @@ North Star metrics covered:
 
 ---
 
-## 🗄️ Dataset and Data Model
+## Dataset Structure and Entity Relationship Diagram
 
 The dataset consists of an **orders** table and a **region** table with **21,864 rows**. Orders link to regions through `COUNTRY_CODE` (many orders to one region).
 
@@ -106,7 +106,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ---
 
-## 🔍 Insights Deep-Dive
+## Insights Deep-Dive
 
 ![Sales Revenue, AOV, and Number of Orders](images/kpi-trends.png)
 
@@ -245,7 +245,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 ### Sales
 - **Boost marketing in the early-Q1 slump.** Sales fell 39% (Dec 2019 to Jan 2020) and 47% (Dec 2020 to Jan 2021).
@@ -271,7 +271,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ---
 
-## 🛠️ Tools and Workflow
+## Tools and Workflow
 
 | Step | Tool |
 |---|---|
@@ -284,7 +284,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
