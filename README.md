@@ -1,6 +1,4 @@
-# Gamezone ECommerce Analysis Report
-
-> An end-to-end analysis of Gamezone's 2019 to early 2021 sales performance: revenue trends, product mix, customer behavior, refund rates, and regional demand, with recommendations for the Head of Operations.
+# Gamezone Ecommerce Analysis Report
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Visualization-Tableau-E97627?logo=tableau&logoColor=white)
