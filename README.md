@@ -136,16 +136,18 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ### Product Performance
 
-<img src="gamezone_visuals/product_sales_trend.png" alt="Core products drove Q4 sales spikes while accessories remained stable" width="750">
+<img src="gamezone_visuals/top_products_bar.png" alt="Top four products drive the majority of sales" width="750">
 
-**Best and worst performers**
+**Best and Worst Performers**
 - The **27in 4K Gaming Monitor** is the top revenue product in both 2019 and 2020: **$1.97M (32% of total revenue)**.
 - Next are the **Nintendo Switch ($1.66M)** and **Sony PlayStation 5 Bundle ($1.59M)**, followed by the **Lenovo IdeaPad Gaming 3 ($736K)**.
 - The top four products account for nearly **97%** of total sales.
 - The **Razer Pro Gaming Headset** is the weakest performer, with just 7 orders totaling $884.
 - The **Dell Gaming Mouse ($36.5K)** and **Acer Nitro V Gaming Laptop ($65.7K)** contributed very little.
 
-**Product mix**
+<img src="gamezone_visuals/volume_vs_value_scatter.png" alt="Sales is driven by both high-volume and high-value products" width="600">
+
+**Product Mix**
 | Product | Orders | Revenue per order |
 |---|---|---|
 | Nintendo Switch | 10,288 | ~$161 |
@@ -159,15 +161,13 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 - The PS5 Bundle and IdeaPad are the strongest high-ticket products despite fewer orders.
 - Low-priced accessories (JBL headset, Dell mouse) saw demand but contributed little revenue.
 
-**Line chart findings**
+**Line Chart Findings**
 - Consistent Q4 spikes in 2019 and 2020, likely from Black Friday, Cyber Monday, and Christmas sales.
 - The 27in 4K Monitor and PS5 Bundle had the largest Q4 surges.
 - Sales dip in January after the Q4 holiday peak.
 - Accessories had low but stable sales in Q1 to Q3, while top products were more volatile.
 
-<img src="gamezone_visuals/top_products_bar.png" alt="Top four products drive the majority of sales" width="750">
-
-<img src="gamezone_visuals/volume_vs_value_scatter.png" alt="Sales is driven by both high-volume and high-value products" width="600">
+<img src="gamezone_visuals/product_sales_trend.png" alt="Core products drove Q4 sales spikes while accessories remained stable" width="750">
 
 ### Customer Purchasing Trends
 
