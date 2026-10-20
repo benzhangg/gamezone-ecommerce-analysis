@@ -158,7 +158,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ### Product Performance
 
-![Core products drove Q4 sales spikes while accessories remained stable](gamezone_visuals/product_sales_trend.png)
+<img src="gamezone_visuals/product_sales_trend.png" alt="Core products drove Q4 sales spikes while accessories remained stable" width="750">
 
 **Best and worst performers**
 - The **27in 4K Gaming Monitor** is the top revenue product in both 2019 and 2020: **$1.97M (32% of total revenue)**.
@@ -187,13 +187,13 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 - Sales dip in January after the Q4 holiday peak.
 - Accessories had low but stable sales in Q1 to Q3, while top products were more volatile.
 
-![Top four products drive the majority of sales](gamezone_visuals/top_products_bar.png)
+<img src="gamezone_visuals/top_products_bar.png" alt="Top four products drive the majority of sales" width="750">
 
-![Sales is driven by both high-volume and high-value products](gamezone_visuals/volume_vs_value_scatter.png)
+<img src="gamezone_visuals/volume_vs_value_scatter.png" alt="Sales is driven by both high-volume and high-value products" width="600">
 
 ### Customer Purchasing Trends
 
-![Repeat vs. one-time customers: AOV and order volume](gamezone_visuals/customer_type_trends.png)
+<img src="gamezone_visuals/customer_type_trends.png" alt="Repeat vs. one-time customers: AOV and order volume" width="800">
 
 - **One-time buyers** grew orders from **5,414 (2019) to 11,247 (2020)** and revenue from **$1.2M to $3.4M**.
 - **Repeat buyers** placed **1,021 orders in 2019 and 2,117 in 2020**, with **43% sales growth**.
@@ -204,7 +204,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ### Refund Rates
 
-![Refund rate by product, 2019 vs. 2020](gamezone_visuals/refund_rate_heatmap.png)
+<img src="gamezone_visuals/refund_rate_heatmap.png" alt="Refund rate by product, 2019 vs. 2020" width="500">
 
 | Product | 2019 | 2020 |
 |---|---|---|
@@ -226,7 +226,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ### Regional Findings
 
-![Regional sales trend](gamezone_visuals/regional_sales_trend.png)
+<img src="gamezone_visuals/regional_sales_trend.png" alt="Regional sales trend" width="750">
 
 - **North America** is the largest market for every product, averaging **53% of sales per product** and accumulating **$3.2M** by early 2021.
 - **Latin America** is the weakest, generating **$336K** in total, about **5%** per product.
@@ -234,9 +234,9 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 - The **Nintendo Switch** is the most popular by order count, averaging **45% of orders** across regions.
 - The **Razer Pro Gaming Headset** is the least popular, with almost 0% of revenue.
 
-![Product revenue mix remains consistent across regions](gamezone_visuals/regional_product_mix.png)
+<img src="gamezone_visuals/regional_product_mix.png" alt="Product revenue mix remains consistent across regions" width="800">
 
-![2020 spike in all regional sales during the pandemic boom](gamezone_visuals/regional_2019_vs_2020.png)
+<img src="gamezone_visuals/regional_2019_vs_2020.png" alt="2020 spike in all regional sales during the pandemic boom" width="750">
 
 | Region | 2019 sales | 2020 sales |
 |---|---|---|
