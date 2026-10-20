@@ -88,9 +88,9 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ## Insights Deep-Dive
 
-<img src="gamezone_visuals/kpi_trends.png" alt="Sales Revenue, AOV, and Number of Orders" width="800">
-
 ### Sales Revenue
+
+<img src="gamezone_visuals/kpi_trends.png" alt="Sales Revenue, AOV, and Number of Orders" width="800">
 
 **1. Rapid growth during the 2020 pandemic era**
 - Revenue hovered near **$120K** through most of 2019 (Q1 to Q3).
