@@ -7,7 +7,6 @@
 ![Visualization](https://img.shields.io/badge/Visualization-Tableau-E97627?logo=tableau&logoColor=white)
 
 ---
-
 ## Table of Contents
 
 - [Client Background](#-client-background)
