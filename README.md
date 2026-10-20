@@ -148,26 +148,18 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 <img src="gamezone_visuals/volume_vs_value_scatter.png" alt="Sales is driven by both high-volume and high-value products" width="600">
 
 **Product Mix**
-| Product | Orders | Revenue per order |
-|---|---|---|
-| Nintendo Switch | 10,288 | ~$161 |
-| 27in 4K Gaming Monitor | 4,686 | ~$420 |
-| Sony PlayStation 5 Bundle | 967 | ~$1,643 |
-| Lenovo IdeaPad Gaming 3 | 669 | ~$1,099 |
-| JBL Quantum 100 Gaming Headset | n/a | ~$22 |
-| Dell Gaming Mouse | n/a | ~$51 |
+- **Nintendo Switch:** the most popular product by volume, with 10,288 orders, but at only about $161 per order.
+- **Sony PlayStation 5 Bundle and Lenovo IdeaPad Gaming 3:** the strongest high-ticket products, at $1,643 per order (967 orders) and $1,099 per order (669 orders). Despite having far fewer orders, they bring in much more revenue per sale.
+- **27in 4K Gaming Monitor:** combines high order volume with a higher price point, at 4,686 orders and about $420 per order.
+- **JBL Quantum 100 Gaming Headset and Dell Gaming Mouse:** lower-priced accessories ($22 and $51 per order) that saw steady demand but contributed very little to total sales.
 
-- The Switch is the most popular product by volume, but at a low price per order.
-- The PS5 Bundle and IdeaPad are the strongest high-ticket products despite fewer orders.
-- Low-priced accessories (JBL headset, Dell mouse) saw demand but contributed little revenue.
+<img src="gamezone_visuals/product_sales_trend.png" alt="Core products drove Q4 sales spikes while accessories remained stable" width="750">
 
 **Line Chart Findings**
 - Consistent Q4 spikes in 2019 and 2020, likely from Black Friday, Cyber Monday, and Christmas sales.
 - The 27in 4K Monitor and PS5 Bundle had the largest Q4 surges.
 - Sales dip in January after the Q4 holiday peak.
 - Accessories had low but stable sales in Q1 to Q3, while top products were more volatile.
-
-<img src="gamezone_visuals/product_sales_trend.png" alt="Core products drove Q4 sales spikes while accessories remained stable" width="750">
 
 ### Customer Purchasing Trends
 
