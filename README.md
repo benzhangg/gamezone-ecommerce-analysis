@@ -84,28 +84,6 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 <img src="gamezone_visuals/erd.png" alt="Entity Relationship Diagram" width="600">
 
-### `orders`
-| Column | Type |
-|---|---|
-| `USER_ID` | String |
-| `ORDER_ID` | String |
-| `PURCHASE_TS` | Date |
-| `SHIP_TS` | Date |
-| `REFUND_TS` | Date |
-| `PRODUCT_NAME` | String |
-| `PRODUCT_ID` | String |
-| `USD_PRICE` | Float64 |
-| `PURCHASE_PLATFORM` | String |
-| `MARKETING_CHANNEL` | String |
-| `ACCOUNT_CREATION_METHOD` | String |
-| `COUNTRY_CODE` | String (FK to `region`) |
-
-### `region`
-| Column | Type |
-|---|---|
-| `COUNTRY_CODE` | String (PK) |
-| `REGION` | String |
-
 ---
 
 ## Insights Deep-Dive
