@@ -190,11 +190,11 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 - **North America** is the largest market for every product, averaging **53% of sales per product** and accumulating **$3.2M** by early 2021.
 - **Latin America** is the weakest, generating **$336K** in total, about **5%** per product.
 
-<img src="gamezone_visuals/regional_2019_vs_2020.png" alt="2020 spike in all regional sales during the pandemic boom" width="750">
+<img src="gamezone_visuals/regional_2019_vs_2020.png" alt="2020 spike in all regional sales during the pandemic boom" width="1000">
 
 - **Every region grew sharply in 2020.** North America rose from $833K to $2.1M and EMEA from $460K to $1.2M. APAC ($169K to $503K) and LATAM ($79K to $230K) roughly tripled, though from much smaller bases.
 
-<img src="gamezone_visuals/regional_product_mix.png" alt="Product revenue mix remains consistent across regions" width="800">
+<img src="gamezone_visuals/regional_product_mix.png" alt="Product revenue mix remains consistent across regions" width="1000">
 
 - The **27in 4K Gaming Monitor** is the top item globally (~32% of regional sales on average), followed by the **PS5 Bundle (27%)** and **Nintendo Switch (26%)**.
 - The **Nintendo Switch** is the most popular by order count, averaging **45% of orders** across regions.
