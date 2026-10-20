@@ -4,7 +4,6 @@
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Excel-217346?logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL%2C%20DBeaver-336791?logo=postgresql&logoColor=white)
 ![Visualization](https://img.shields.io/badge/Visualization-Tableau-E97627?logo=tableau&logoColor=white)
-
 ---
 
 ## Table of Contents
