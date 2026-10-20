@@ -9,11 +9,11 @@
 ---
 ## Table of Contents
 
-- [Client Background](#-client-background)
-- [Scope of Analysis](#-scope-of-analysis)
-- [Executive Summary](#-executive-summary)
-- [Dataset Structure and Entity Relationship Diagram](#-dataset-and-data-model)
-- [Insights Deep-Dive](#-insights-deep-dive)
+- [Client Background](#client-background)
+- [Scope of Analysis](#scope-of-analysis)
+- [Executive Summary](#executive-summary)
+- [Dataset Structure and Entity Relationship Diagram](#dataset-structure-and-entity-relationship-diagram)
+- [Insights Deep-Dive](#insights-deep-dive)
   - [Sales Revenue](#sales-revenue)
   - [Average Order Value](#average-order-value)
   - [Number of Orders](#number-of-orders)
@@ -21,9 +21,9 @@
   - [Customer Purchasing Trends](#customer-purchasing-trends)
   - [Refund Rates](#refund-rates)
   - [Regional Findings](#regional-findings)
-- [Recommendations](#-recommendations)
-- [Tools and Workflow](#-tools-and-workflow)
-- [Repository Structure](#-repository-structure)
+- [Recommendations](#recommendations)
+- [Tools and Workflow](#tools-and-workflow)
+- [Repository Structure](#repository-structure)
 
 ---
 
