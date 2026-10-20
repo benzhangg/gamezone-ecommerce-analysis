@@ -158,7 +158,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ### Product Performance
 
-![Core products drove Q4 sales spikes while accessories remained stable](images/product-sales-trend.png)
+![Core products drove Q4 sales spikes while accessories remained stable](gamezone_visuals/product_sales_trend.png)
 
 **Best and worst performers**
 - The **27in 4K Gaming Monitor** is the top revenue product in both 2019 and 2020: **$1.97M (32% of total revenue)**.
