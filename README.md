@@ -197,13 +197,6 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 <img src="gamezone_visuals/regional_2019_vs_2020.png" alt="2020 spike in all regional sales during the pandemic boom" width="750">
 
-| Region | 2019 sales | 2020 sales |
-|---|---|---|
-| North America | $833K | $2.1M |
-| EMEA | $460K | $1.2M |
-| APAC | $169K | $503K |
-| LATAM | $79K | $230K |
-
 ---
 
 ## Recommendations
