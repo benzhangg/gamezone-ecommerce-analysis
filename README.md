@@ -154,7 +154,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 - Oct 2020: orders **-30%**, sales **-25%** (AOV +7%).
 - Orders generally moved in the same direction as revenue, even when AOV moved the opposite way, so **revenue changes are primarily driven by order volume**.
 
-![Month-over-month growth: AOV vs. sales](images/mom-growth.png)
+![Month-over-month growth: AOV vs. sales](gamezone_visuals/mom_growth.png)
 
 ### Product Performance
 
