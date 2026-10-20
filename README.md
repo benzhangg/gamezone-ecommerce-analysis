@@ -187,13 +187,13 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 - Sales dip in January after the Q4 holiday peak.
 - Accessories had low but stable sales in Q1 to Q3, while top products were more volatile.
 
-![Top four products drive the majority of sales](images/top-products-bar.png)
+![Top four products drive the majority of sales](gamezone_visuals/top_products_bar.png)
 
-![Sales is driven by both high-volume and high-value products](images/volume-vs-value-scatter.png)
+![Sales is driven by both high-volume and high-value products](gamezone_visuals/volume_vs_value_scatter.png)
 
 ### Customer Purchasing Trends
 
-![Repeat vs. one-time customers: AOV and order volume](images/customer-type-trends.png)
+![Repeat vs. one-time customers: AOV and order volume](gamezone_visuals/customer_type_trends.png)
 
 - **One-time buyers** grew orders from **5,414 (2019) to 11,247 (2020)** and revenue from **$1.2M to $3.4M**.
 - **Repeat buyers** placed **1,021 orders in 2019 and 2,117 in 2020**, with **43% sales growth**.
@@ -204,7 +204,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ### Refund Rates
 
-![Refund rate by product, 2019 vs. 2020](images/refund-rate-heatmap.png)
+![Refund rate by product, 2019 vs. 2020](gamezone_visuals/refund_rate_heatmap.png)
 
 | Product | 2019 | 2020 |
 |---|---|---|
@@ -226,7 +226,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ### Regional Findings
 
-![Regional sales trend](images/regional-sales-trend.png)
+![Regional sales trend](gamezone_visuals/regional_sales_trend.png)
 
 - **North America** is the largest market for every product, averaging **53% of sales per product** and accumulating **$3.2M** by early 2021.
 - **Latin America** is the weakest, generating **$336K** in total, about **5%** per product.
@@ -234,9 +234,9 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 - The **Nintendo Switch** is the most popular by order count, averaging **45% of orders** across regions.
 - The **Razer Pro Gaming Headset** is the least popular, with almost 0% of revenue.
 
-![Product revenue mix remains consistent across regions](images/regional-product-mix.png)
+![Product revenue mix remains consistent across regions](gamezone_visuals/regional_product_mix.png)
 
-![2020 spike in all regional sales during the pandemic boom](images/regional-2019-vs-2020.png)
+![2020 spike in all regional sales during the pandemic boom](gamezone_visuals/regional_2019_vs_2020.png)
 
 | Region | 2019 sales | 2020 sales |
 |---|---|---|
