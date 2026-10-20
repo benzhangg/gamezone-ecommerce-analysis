@@ -176,17 +176,6 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 <img src="gamezone_visuals/refund_rate_heatmap.png" alt="Refund rate by product, 2019 vs. 2020" width="500">
 
-| Product | 2019 | 2020 |
-|---|---|---|
-| Razer Pro Gaming Headset | n/a | 0.0% |
-| JBL Quantum 100 Gaming Headset | 3.3% | 2.9% |
-| Dell Gaming Mouse | n/a | 7.1% |
-| Acer Nitro V Gaming Laptop | 8.3% | 10.7% |
-| Sony PlayStation 5 Bundle | 17.6% | 18.6% |
-| Lenovo IdeaPad Gaming 3 | 17.2% | 19.6% |
-| Nintendo Switch | 6.3% | 23.2% |
-| 27in 4K Gaming Monitor | 8.0% | 24.8% |
-
 - No orders were recorded for the Razer Pro Gaming Headset and Dell Gaming Mouse in 2019.
 - Refund rates rose for every product except the JBL Quantum 100 Gaming Headset.
 - The PS5 Bundle and IdeaPad were the most returned in 2019, and are also the most expensive items with the highest AOV.
