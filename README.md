@@ -82,7 +82,7 @@ North Star metrics covered:
 
 The dataset consists of an **orders** table and a **region** table with **21,864 rows**. Orders link to regions through `COUNTRY_CODE` (many orders to one region).
 
-![Entity Relationship Diagram](images/erd.png)
+![Entity Relationship Diagram](visuals/erd.png)
 
 ### `orders`
 | Column | Type |
