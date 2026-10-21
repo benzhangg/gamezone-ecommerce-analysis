@@ -230,14 +230,17 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 
 ## Tools and Workflow
 
-| Step | Tool |
-|---|---|
-| Source data and initial prep | Excel |
-| Database and querying | PostgreSQL, DBeaver |
-| Data model diagram | dbdiagram.io |
-| Visualization and dashboards | Tableau |
+| Step | Tool | Resource |
+|---|---|---|
+| Data cleaning | Excel | [Excel workbook](gamezone_excel/gamezone_orders_data.xlsx) |
+| Data analysis | PostgreSQL, DBeaver | [SQL scripts](gamezone_sql/) |
+| Data model diagram | dbdiagram.io | [Entity relationship diagram](gamezone_visuals/erd.png) |
+| Visualization and dashboards | Tableau Public | [Tableau Public vizzes](gamezone_tableau/tableau_public_link.md) |
 
-**Workflow:** raw data was imported into PostgreSQL through DBeaver, cleaned into `orders_cleaned` and `region_cleaned` tables, then analyzed and visualized in Tableau.
+**Workflow:**
+1. **Data cleaning (Excel):** reviewed the source data, documented data quality issues, and produced the `orders_cleaned` and `region_cleaned` sheets. The workbook also includes supporting sheets such as `duplicate_check`, `issues_log`, and `data_quality_summary`.
+2. **Data analysis (SQL):** imported the cleaned data into PostgreSQL through DBeaver and ran SQL queries for monthly, product, customer, refund, regional, and marketing analysis.
+3. **Visualization (Tableau Public):** built the charts and dashboards used throughout this report.
 
 ---
 
