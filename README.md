@@ -243,22 +243,34 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 3. **Visualization (Tableau Public):** built the charts and dashboards used throughout this report.
 
 ---
-
 ## Repository Structure
 
 ```
 .
-├── README.md
-└── images/
+├── README.md                          # Project report (this file)
+├── gamezone_excel/
+│   └── gamezone_orders_data.xlsx      # Raw data, cleaned data, and data quality logs
+├── gamezone_sql/
+│   ├── data_import.sql                # Table setup and data import
+│   ├── data_validation.sql            # Record counts and data checks
+│   ├── monthly_analysis.sql           # Sales, AOV, and order trends
+│   ├── product_analysis.sql           # Product performance and mix
+│   ├── customer_analysis.sql          # One-time vs. repeat customers
+│   ├── refund_analysis.sql            # Refund rates by product
+│   ├── regional_analysis.sql          # Regional sales and product demand
+│   └── marketing_analysis.sql         # Marketing channel analysis
+├── gamezone_tableau/
+│   └── tableau_public_link.md         # Link to Tableau Public vizzes
+└── gamezone_visuals/
     ├── erd.png
-    ├── kpi-trends.png
-    ├── mom-growth.png
-    ├── product-sales-trend.png
-    ├── top-products-bar.png
-    ├── volume-vs-value-scatter.png
-    ├── customer-type-trends.png
-    ├── refund-rate-heatmap.png
-    ├── regional-sales-trend.png
-    ├── regional-product-mix.png
-    └── regional-2019-vs-2020.png
+    ├── kpi_trends.png
+    ├── mom_growth.png
+    ├── product_sales_trend.png
+    ├── top_products_bar.png
+    ├── volume_vs_value_scatter.png
+    ├── customer_type_trends.png
+    ├── refund_rate_heatmap.png
+    ├── regional_sales_trend.png
+    ├── regional_product_mix.png
+    └── regional_2019_vs_2020.png
 ```
