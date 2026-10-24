@@ -222,7 +222,7 @@ The dataset consists of an **orders** table and a **region** table with **21,864
 - **Prioritize root-cause investigations for expensive products.** The PS5 Bundle and IdeaPad average about 18% returns, and the Nintendo Switch and 27in 4K Monitor rose sharply in 2020.
 
 ### Regions
-- **Protect North America**, Gamezone's strongest market (53% of product sales).
+- **Maintain competitive standing in North America**, Gamezone's strongest market (53% of product sales).
 - **Expand in LATAM** with tailored product lines, additional marketing and purchasing platforms, and new product mixes (about 5% of product sales today).
 - **Keep the top four products available in every region**, since they drive the majority of sales everywhere.
 
